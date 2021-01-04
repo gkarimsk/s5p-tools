@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Subdataset name="/METADATA/QA_STATISTICS/carbonmonoxide_total_column_histogram_bounds">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">0.050000000745058</MDI>
+          <MDI key="STATISTICS_MEAN">0.039999999785796</MDI>
+          <MDI key="STATISTICS_MINIMUM">0.029999999329448</MDI>
+          <MDI key="STATISTICS_STDDEV">0.005774080315862</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
